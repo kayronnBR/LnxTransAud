@@ -1,4 +1,4 @@
-tradutor de audio para texto instantaneo no linux
+tradutor de audio para texto instantaneo no linux (feito pelo gemini)
 
 # como baixar?
 1- baixe as dependencias:
