@@ -1,4 +1,4 @@
-helvum
+flatpak run org.pipewire.Helvum
 cd /home/kayronn/.LnxTransAud/
 # Cria o ambiente virtual
 python -m venv venv
