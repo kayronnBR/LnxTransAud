@@ -15,7 +15,7 @@ pip install vosk deep-translator pyaudio
 ```
 2- baixei o aplicativo
 <h1>
-  <a href="https://downgit.github.io/#/home?url=https://github.com/kayronnBR/LnxTransMsg/blob/main/LnxTransMsg.sh">DOWNLOAD</a>
+  <a href="https://downgit.github.io/#/home?url=https://github.com/kayronnBR/LnxTransAud/tree/main/download">DOWNLOAD</a>
 </h1>
 extraia o arquvio
 
